@@ -6,6 +6,6 @@ final class AnimatedMenuBarTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(AnimatedMenuBar().text, "Hello, World!")
+//        XCTAssertEqual(AnimatedMenuBar(selectedIndex: <#Binding<Int>#>), <#AnimatedMenuBar#>)
     }
 }
